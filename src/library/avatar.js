@@ -1,0 +1,1 @@
+export const avatarImages = ['/images/Avatar1.jpg', '/images/Avatar2.png', '/images/Avatar3.png', '/images/Avatar4.png'];
