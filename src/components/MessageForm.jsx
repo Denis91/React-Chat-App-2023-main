@@ -18,7 +18,6 @@ export function MessageForm(props) {
         setFormState('');
         const time = new Date();
         props.onSubmit({
-                id: Date.now(),
                 author: {
                     username: props.username,
                     avatarIndex: props.avatarIndex,
